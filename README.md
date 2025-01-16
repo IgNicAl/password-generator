@@ -1,61 +1,62 @@
-# Gerador de Senhas Seguras
+# Secure Password Generator
 
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
-![Version](https://img.shields.io/badge/Versão-1.0.0-purple)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Version](https://img.shields.io/badge/Version-1.0.0-purple)
 
-## 📑 Índice
+## 📑 Table of Contents
 
-- [Descrição do Projeto](#descrição-do-projeto)
-- [Status do Projeto](#status-do-projeto)
-- [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-- [Acesso ao Projeto](#acesso-ao-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
-- [Conclusão](#conclusão)
+- [Project Description](#project-description)
+- [Project Status](#project-status)
+- [Features and Application Demo](#features-and-application-demo)
+- [Accessing the Project](#accessing-the-project)
+- [Technologies Used](#technologies-used)
+- [Project Contributors](#project-contributors)
+- [Conclusion](#conclusion)
 
-## 📖 Descrição do Projeto
+## 📖 Project Description
 
-O **Gerador de Senhas Seguras** é uma aplicação web simples e intuitiva que permite aos usuários criarem senhas fortes, personalizadas e seguras. Ele inclui opções de personalização, como a escolha de caracteres maiúsculos, números, símbolos e ajuste do comprimento da senha, garantindo flexibilidade e segurança.
+The **Secure Password Generator** is a simple and intuitive web application that allows users to create strong, customized, and secure passwords. It includes customization options such as choosing uppercase characters, numbers, symbols, and adjusting the password length, ensuring flexibility and security.
 
-O projeto é totalmente responsivo e funciona em qualquer navegador moderno, oferecendo uma interface amigável para o usuário.
+The project is fully responsive and works on any modern browser, offering a user-friendly interface.
 
-## 🚀 Status do Projeto
+## 🚀 Project Status
 
-✅ **Concluído** – O projeto está totalmente funcional e pronto para uso.
+✅ **Completed** – The project is fully functional and ready to use.
 
-## 🛠️ Funcionalidades e Demonstração da Aplicação
+## 🛠️ Features and Application Demo
 
-### Funcionalidades
+### Features
 
-- **Geração de senhas seguras**: Criação de senhas personalizadas.
-- **Personalização de opções**:
-  - Ajuste de comprimento da senha (4 a 64 caracteres).
-  - Inclusão/exclusão de caracteres especiais, números e letras maiúsculas.
-- **Indicador de segurança**: Exibe visualmente a força da senha gerada.
-- **Botões interativos**: Copiar a senha gerada ou criar uma nova com apenas um clique.
-- **Design responsivo**: Interface adaptada para dispositivos móveis e desktops.
+- **Secure Password Generation**: Create customized passwords.
+- **Customization Options**:
+  - Adjust password length (4 to 64 characters).
+  - Include/exclude special characters, numbers, and uppercase letters.
+- **Security Indicator**: Visually displays the strength of the generated password.
+- **Interactive Buttons**: Copy the generated password or create a new one with a single click.
+- **Responsive Design**: Interface adapted for mobile and desktop devices.
 
-### Demonstração
+### Demo
 
-Para visualizar a aplicação em funcionamento, siga estas etapas:
+To view the application in action, follow these steps:
 
-1. **Clone o repositório**:
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/IgNicAl/gerador-de-senhas-seguras.git   
-2. **Abra o arquivo HTML diretamente**: Navegue até o diretório do projeto e abra o arquivo `index.html` em seu navegador.
+   git clone https://github.com/IgNicAl/secure-password-generator.git
+   ```
+2. **Open the HTML file directly**: Navigate to the project directory and open the `index.html` file in your browser.
 
-## 🛠️ Tecnologias Utilizadas
-- **HTML5**: Estrutura da aplicação.
-- **CSS3**: Estilização e responsividade.
-  - Arquivo `reset.css` para normalização dos estilos.
-  - Arquivo `style.css` para design personalizado.
-- **JavaScript**: Lógica de geração de senhas, interatividade e cálculo de qualidade.
-- **Google Fonts**: Fonte *Inter* para uma tipografia moderna e legível.
+## 🛠️ Technologies Used
+- **HTML5**: Application structure.
+- **CSS3**: Styling and responsiveness.
+  - `reset.css` file for style normalization.
+  - `style.css` file for custom design.
+- **JavaScript**: Logic for password generation, interactivity, and quality calculation.
+- **Google Fonts**: *Inter* font for modern and readable typography.
 
-## 👩‍💻 Pessoas Desenvolvedoras do Projeto
+## 👩‍💻 Project Contributors
 - [IgNicAl](#)
 
-## 🏁 Conclusão
-O **Gerador de Senhas Seguras** é uma ferramenta prática e eficiente para criar senhas fortes e personalizadas. Com uma interface intuitiva e responsiva, este projeto é ideal para qualquer pessoa que deseje aumentar a segurança de suas senhas de forma rápida e fácil.
+## 🏁 Conclusion
+The **Secure Password Generator** is a practical and efficient tool for creating strong and customized passwords. With its intuitive and responsive interface, this project is ideal for anyone looking to enhance password security quickly and easily.
 
-Caso tenha sugestões ou encontre algum problema, sinta-se à vontade para abrir uma issue no repositório.
+If you have suggestions or encounter any issues, feel free to open an issue in the repository.
