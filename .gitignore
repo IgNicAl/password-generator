@@ -22,3 +22,22 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# External dependencies and non-versionable files
+node_modules/
+dist/
+build/
+
+# Image and icon files
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Local configuration files
+.env
